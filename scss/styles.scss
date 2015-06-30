@@ -1,0 +1,17 @@
+$color: white;
+
+body {
+  background-color : $color;
+  margin: 0;
+  padding: 0;
+}
+
+#top-nav {
+  background-color: #008DFF;
+}
+
+#top-nav > ul > li {
+  border-radius: 50%
+  width: 100px;
+  height: 100px;
+}
